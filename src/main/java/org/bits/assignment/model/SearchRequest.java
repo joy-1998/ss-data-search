@@ -11,4 +11,6 @@ public class SearchRequest {
     private String title;
     private List<String> tags;
     private String description;
+    private int pageSzie;
+    private int pageNbr;
 }
