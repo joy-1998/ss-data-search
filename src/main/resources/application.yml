@@ -6,3 +6,5 @@ spring:
     mongodb:
       uri: mongodb+srv://2023mt03061:GlKc8610IvnNrNtg@cluster0.tzwotuy.mongodb.net/?retryWrites=true&w=majority
       database: ss_db
+server:
+  port: 8082
