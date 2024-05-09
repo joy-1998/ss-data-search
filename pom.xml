@@ -13,7 +13,7 @@
 
 <groupId>org.bits.assignment</groupId>
 <artifactId>ss-data-search</artifactId>
-<version>1.0-SNAPSHOT</version>
+<version>1.0.1-SNAPSHOT</version>
 <description>project for ss assignment</description>
 
 <properties>
